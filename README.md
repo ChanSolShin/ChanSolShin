@@ -1,6 +1,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=iOS%20Develop&fontAlign=70&rotate=13&fontAlignY=25&descAlign=60.&descAlignY=44)
 
-# 🛠 ️Tech Stack 🛠️
+# 🛠 Tech Stack 🛠️
 ![Static Badge](https://img.shields.io/badge/ios%20-%20%23000000?style=for-the-badge&logo=iOS&logoColor=white) ![Static Badge](https://img.shields.io/badge/Swift%20-%20%23F05138?style=for-the-badge&logo=Swift&logoColor=white) ![Static Badge](https://img.shields.io/badge/Xcode-%23147EFB?style=for-the-badge&logo=Xcode&logoColor=white) ![Static Badge](https://img.shields.io/badge/UIkit-%232396F3?style=for-the-badge&logo=UIkit&logoColor=white) ![Static Badge](https://img.shields.io/badge/ReactiveX-%23B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
